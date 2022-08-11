@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "main": "vibe.js",
-  "author": "Jack Epner",
+  "author": "",
   "scripts": {
     "build": "eleventy",
     "start": "eleventy --serve"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1"
+    "@11ty/eleventy": "^1.0.1",
+    "hub": "^6.1.2"
   }
 }
