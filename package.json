@@ -1,0 +1,17 @@
+{
+  "name": "jamstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vibe.js",
+  "author": "Jack Epner",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
